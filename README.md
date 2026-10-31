@@ -1,2 +1,3 @@
+[Open the interactive 3D network](https://pet-kls.github.io/Supplementary_PETKLS_3D_Schaefer17_edge_networks/)
+
 > Monteiro S, Arunachalam P, Pieperhoff L, Tranfa M, Masserini F, Ritchie C, Boada M, Marquié M, Vijverberg J, Vandenberghe R, Hanseeuw BJ, Visser PJ, Frisoni GB, Stephens A, Farrar G, Pardini M, Roccatagliata L, Jessen F, Salvadó G, Vállez-García D, Pontillo G, Luckett ES, Cole JH, Barkhof F, Wink AM, Collij LE, Lorenzini L (2026). *Amyloid PET Similarity Networks in Preclinical Alzheimer's Disease Reveal Early Dynamic Topological Reorganization.* 
-https://pet-kls.github.io/Supplementary_PETKLS_3D_Schaefer17_edge_networks/
